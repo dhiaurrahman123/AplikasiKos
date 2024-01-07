@@ -1,9 +1,9 @@
 TUGAS AKHIR Pengembangan Aplikasi Mobile
 
-1. Nama Project
+1. Nama Project : 
 Aplikasi Kos
 
-2. Penjelasan Project
+2. Penjelasan Project : 
 Aplikasi ini dibuat untuk memudahkan para pemilik kos mengetahui apakah penghuni kos sudah membayar kos atau belum. Jadi tidak perlu menggunakan buku untuk mendata para penghuni kos yang lunas ataupun belum. Untuk kejelasan project bisa dilihat use case dinawah ini
 
 3. Use case
