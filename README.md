@@ -12,8 +12,8 @@ Aplikasi ini dibuat untuk memudahkan para pemilik kos mengetahui apakah penghuni
 ![UseCase](https://github.com/dhiaurrahman123/AplikasiKos/assets/73013590/f3b864fe-34ea-48a3-a910-871611201ac2)
 
 
-Login : Untuk pemilik kos diwajibkan untuk login pada saat membuka aplikasi Kos
-Kamar : Pemilik kos dapat mengedit kamar dan memerlukan login 
-Edit Status : Pemilik Kos dapat mengubah status pengguni kos
-Lunas : Pemilik kos memilih lunas apabila penghuni kos sudah membayar
-Belum : Pemilik kos memilih lunas apabila penghuni kos belum membayar
+1. Login : Untuk pemilik kos diwajibkan untuk login pada saat membuka aplikasi Kos, 
+2. Kamar : Pemilik kos dapat mengedit kamar dan memerlukan login 
+3. Edit Status : Pemilik Kos dapat mengubah status pengguni kos
+4. Lunas : Pemilik kos memilih lunas apabila penghuni kos sudah membayar
+5. Belum : Pemilik kos memilih lunas apabila penghuni kos belum membayar
