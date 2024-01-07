@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KosanBaru</string>
+    <string name="nama">Nama</string>
+    <string name="kamar">Kamar</string>
+    <string name="status">Status</string>
+    <string name="lunas">Lunas</string>
+    <string name="belum">Belum</string>
+</resources>
